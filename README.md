@@ -2,6 +2,7 @@
 
 Ce bout de code sert à générer une attestation. Cela fonctionne sans serveur, complètement côté client. Le code est auditable et dégueu mais ça a été assemblé de bric et de broc en 1 heure.
 
+Accessible sur https://chloetigre.github.io/covid19
 
 # License
 
